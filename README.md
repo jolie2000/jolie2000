@@ -26,9 +26,6 @@ A project developed during the Refactory program to demonstrate frontend develop
 
 🔗 Repository: https://github.com/jolie2000/refactory-clone
 
-### Portfolio
-https://jolie2000.github.io/portfolio-xp/
-
 ### GitHub
 https://github.com/jolie2000
 
