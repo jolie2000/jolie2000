@@ -13,7 +13,7 @@ Junior Software Engineer passionate about building responsive systems.
 
 ---
 
-> "As long as you're still alive, everything is possible♡"
+> "As long as you're still alive, every dream is possible♡"
 
 ---
 
