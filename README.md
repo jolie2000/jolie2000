@@ -1,6 +1,6 @@
 ### Hi, I'm Uwase Jolie 
 
-I'm a Junior Software Engineer passionate about building responsive systems.
+Junior Software Engineer passionate about building responsive systems.
 
 ---
 
@@ -12,6 +12,9 @@ I'm a Junior Software Engineer passionate about building responsive systems.
 * Java
 
 ---
-### GitHub
-https://github.com/jolie2000
-Email: ujolie735@gmail.com
+
+> "As long as you're still alive, everything is possible♡"
+
+---
+
+📫 **Get in touch:** [ujolie735@gmail.com](mailto:ujolie735@gmail.com) | [GitHub Profile](https://github.com/jolie2000)
